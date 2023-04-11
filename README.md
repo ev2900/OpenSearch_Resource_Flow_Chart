@@ -1,1 +1,1 @@
-# OpenSearch_Resource_Flow_Chart
+# OpenSearch Resource Flow Chart
