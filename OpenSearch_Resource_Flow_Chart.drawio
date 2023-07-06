@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2023-07-06T00:15:15.555Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.5.1 Chrome/112.0.5615.204 Electron/24.6.0 Safari/537.36" etag="KQU9FvygvzxhxlQ5B7yv" version="21.5.1" type="device">
+<mxfile host="Electron" modified="2023-07-06T00:43:21.448Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.5.1 Chrome/112.0.5615.204 Electron/24.6.0 Safari/537.36" etag="jJedOv5b5zG9SoK5byl1" version="21.5.1" type="device">
   <diagram id="fzQWRsEVbXwtDmj6YFEz" name="Page-1">
-    <mxGraphModel dx="4148" dy="1672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="2571" dy="1838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -75,7 +75,7 @@
           <mxGeometry x="900" y="330" width="383" height="230" as="geometry" />
         </mxCell>
         <mxCell id="OYFjvcsIQnCx_sZw_uyR-20" value="Use&amp;nbsp;&lt;span style=&quot;font-size: 16pt; line-height: 107%; font-family: Helvetica, sans-serif; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;&quot;&gt;CloudWatch&amp;nbsp;&lt;/span&gt;metrics, alarms and&amp;nbsp;&lt;span style=&quot;font-size: 16pt; line-height: 107%; font-family: Helvetica, sans-serif; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;&quot;&gt;recommended&amp;nbsp;&lt;/span&gt;thresholds to understand your domain&#39;s resource utilization (CPU, Memory ...)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;align=center;" parent="OYFjvcsIQnCx_sZw_uyR-63" vertex="1">
-          <mxGeometry y="30" width="310" height="200" as="geometry" />
+          <mxGeometry y="30" width="310" height="190" as="geometry" />
         </mxCell>
         <mxCell id="OYFjvcsIQnCx_sZw_uyR-57" value="" style="group" parent="OYFjvcsIQnCx_sZw_uyR-63" vertex="1" connectable="0">
           <mxGeometry x="260" width="123" height="55" as="geometry" />
@@ -682,8 +682,8 @@
             <mxPoint x="1060" y="2920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cGCoYNdKHb_dJwUcVTwO-24" value="Workshops are aviable for the following topics: Log Analytics, CloudWatch Log Collection, Fluentd Log Ingestion, Cross Cluster Replication, Anomaly Detection, Alerting" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="920" y="2930" width="312.5" height="155" as="geometry" />
+        <mxCell id="cGCoYNdKHb_dJwUcVTwO-24" value="&lt;p class=&quot;MsoNormal&quot;&gt;Workshops are available&lt;br/&gt;for the following topics: Log Analytics, CloudWatch Log Collection, Fluentd Log&lt;br/&gt;Ingestion, Cross Cluster Replication, Anomaly Detection, Alerting &lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="920" y="2930" width="312.5" height="200" as="geometry" />
         </mxCell>
         <mxCell id="cGCoYNdKHb_dJwUcVTwO-25" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1220" y="2890" width="123" height="55" as="geometry" />
@@ -728,7 +728,7 @@
         <mxCell id="cGCoYNdKHb_dJwUcVTwO-36" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="250" y="450" as="sourcePoint" />
-            <mxPoint x="500" y="2590" as="targetPoint" />
+            <mxPoint x="500" y="2580" as="targetPoint" />
             <Array as="points">
               <mxPoint x="260" y="1600" />
               <mxPoint x="330" y="2120" />
@@ -834,6 +834,56 @@
         </UserObject>
         <mxCell id="cGCoYNdKHb_dJwUcVTwO-62" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.github;fontSize=21;" vertex="1" parent="cGCoYNdKHb_dJwUcVTwO-60">
           <mxGeometry width="55" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="cGCoYNdKHb_dJwUcVTwO-80" value="&lt;p class=&quot;MsoNormal&quot;&gt;Hosting &amp;amp; Infrastructure&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="421" y="3407.5" width="150" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="cGCoYNdKHb_dJwUcVTwO-81" value="" style="endArrow=classic;html=1;rounded=0;fontSize=21;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="601" y="3469.1700000000005" as="sourcePoint" />
+            <mxPoint x="861" y="3469.58" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cGCoYNdKHb_dJwUcVTwO-82" value="&lt;p class=&quot;MsoNormal&quot;&gt;Are you trying to host&lt;br/&gt;OpenSearch dashboard in a container and connect it remotely to an OpenSearch&lt;br/&gt;domain? &lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="899" y="3420" width="310" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="cGCoYNdKHb_dJwUcVTwO-83" value="Yes" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="980" y="3604" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cGCoYNdKHb_dJwUcVTwO-84" value="" style="endArrow=classic;html=1;rounded=0;fontSize=21;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1059.7600000000002" y="3564" as="sourcePoint" />
+            <mxPoint x="1059.7600000000002" y="3594" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cGCoYNdKHb_dJwUcVTwO-85" value="" style="endArrow=classic;html=1;rounded=0;fontSize=21;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1059.7600000000002" y="3704" as="sourcePoint" />
+            <mxPoint x="1060" y="3764" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cGCoYNdKHb_dJwUcVTwO-86" value="&lt;p class=&quot;MsoNormal&quot;&gt;Host OpenSearch&lt;br/&gt;dashboard service locally via. docker or on Amazon ECS Fargate. Connect remotely&lt;br/&gt;to an OpenSearch domain with or without SSL enabled&amp;nbsp; &lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="920" y="3774" width="312.5" height="166" as="geometry" />
+        </mxCell>
+        <mxCell id="cGCoYNdKHb_dJwUcVTwO-87" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1220" y="3750" width="123" height="55" as="geometry" />
+        </mxCell>
+        <UserObject label="GitHub" link="https://github.com/ev2900/OpenSearch_Local_Dashboard_Server" linkTarget="_blank" id="cGCoYNdKHb_dJwUcVTwO-88">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;fontSize=21;" vertex="1" parent="cGCoYNdKHb_dJwUcVTwO-87">
+            <mxGeometry x="63" y="7.5" width="60" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="cGCoYNdKHb_dJwUcVTwO-89" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.github;fontSize=21;" vertex="1" parent="cGCoYNdKHb_dJwUcVTwO-87">
+          <mxGeometry width="55" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="cGCoYNdKHb_dJwUcVTwO-94" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="450" as="sourcePoint" />
+            <mxPoint x="510" y="3390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="2230" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
