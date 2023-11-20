@@ -5,6 +5,3 @@ I have created many resources under my GitHub account related to OpenSearch. All
 To help understand when to use which resources. I created a flow chart hosted at the URL https://ev2900.github.io/OpenSearch_Resource_Flow_Chart/
 
 The [flow chart](https://ev2900.github.io/OpenSearch_Resource_Flow_Chart/) can help you determine when to use which OpenSearch resources
-
-## Future improvements
-* Add a section for vector database resources
